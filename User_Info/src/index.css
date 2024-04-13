@@ -1,0 +1,19 @@
+div{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+button
+{
+  display: grid;
+  align-items: center;
+  justify-content: center;
+}
+form{
+  margin: 0 auto;
+  padding: 0 auto;
+}
+#output{
+  margin-top: 10%;
+  padding: 10%;
+}
